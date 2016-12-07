@@ -169,4 +169,7 @@ describe('scraping', function() {
 		});
 	});
 
+	describe('JSON-LD tests', function() {
+		let urls = ['']
+	});
 });
